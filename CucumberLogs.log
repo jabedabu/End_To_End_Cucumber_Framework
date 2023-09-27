@@ -1,0 +1,425 @@
+2023-09-26 16:14:45 INFO  End_To_End_BDD_Framework:30 - ******** Launcing Browser ********
+  2023-09-26 16:14:45 INFO  End_To_End_BDD_Framework:37 - ****-- open -** url
+  2023-09-26 16:14:46 INFO  End_To_End_BDD_Framework:43 - ***-- Poviding loging details****-- 
+  2023-09-26 16:14:46 INFO  End_To_End_BDD_Framework:50 - ***-- click loging ****-- 
+  2023-09-26 16:14:48 INFO  End_To_End_BDD_Framework:83 - ***-- user can veiw the dashboad ***-- 
+  2023-09-26 16:14:48 INFO  End_To_End_BDD_Framework:90 - ***-- Poviding menu****-- 
+  2023-09-26 16:15:13 INFO  End_To_End_BDD_Framework:75 - ***-- close the browser ****-- 
+  2023-09-26 16:15:18 INFO  End_To_End_BDD_Framework:30 - ******** Launcing Browser ********
+  2023-09-26 16:15:18 INFO  End_To_End_BDD_Framework:37 - ****-- open -** url
+  2023-09-26 16:15:18 INFO  End_To_End_BDD_Framework:43 - ***-- Poviding loging details****-- 
+  2023-09-26 16:15:19 INFO  End_To_End_BDD_Framework:50 - ***-- click loging ****-- 
+  2023-09-26 16:15:24 INFO  End_To_End_BDD_Framework:75 - ***-- close the browser ****-- 
+  2023-09-26 16:15:26 INFO  End_To_End_BDD_Framework:30 - ******** Launcing Browser ********
+  2023-09-26 16:15:26 INFO  End_To_End_BDD_Framework:37 - ****-- open -** url
+  2023-09-26 16:15:26 INFO  End_To_End_BDD_Framework:43 - ***-- Poviding loging details****-- 
+  2023-09-26 16:15:27 INFO  End_To_End_BDD_Framework:50 - ***-- click loging ****-- 
+  2023-09-26 16:15:30 INFO  End_To_End_BDD_Framework:30 - ******** Launcing Browser ********
+  2023-09-26 16:15:30 INFO  End_To_End_BDD_Framework:37 - ****-- open -** url
+  2023-09-26 16:15:31 INFO  End_To_End_BDD_Framework:43 - ***-- Poviding loging details****-- 
+  2023-09-26 16:15:31 INFO  End_To_End_BDD_Framework:50 - ***-- click loging ****-- 
+  2023-09-27 05:08:31 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:08:31 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:08:32 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:08:33 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:08:35 INFO  End_To_End_BDD_Framework:121 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 05:08:35 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu ****-- 
+  2023-09-27 05:08:37 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 05:08:40 INFO  End_To_End_BDD_Framework:140 - ***-- user can click on addnew button ****-- 
+  2023-09-27 05:08:45 INFO  End_To_End_BDD_Framework:146 - --****--- user can veiw customer page--****
+  2023-09-27 05:08:45 INFO  End_To_End_BDD_Framework:151 - ****---- genrate random String email ***----
+  2023-09-27 05:08:45 INFO  End_To_End_BDD_Framework:153 - ****---- insert email ***----
+  2023-09-27 05:08:48 INFO  End_To_End_BDD_Framework:156 - ****---- insert password ***----
+  2023-09-27 05:08:48 INFO  End_To_End_BDD_Framework:158 - ****---- insert firstname ***----
+  2023-09-27 05:08:51 INFO  End_To_End_BDD_Framework:161 - ****---- insert lastname ***----
+  2023-09-27 05:08:55 INFO  End_To_End_BDD_Framework:164 - ****---- insert male ***----
+  2023-09-27 05:08:55 INFO  End_To_End_BDD_Framework:166 - ****---- insert datebirth ***----
+  2023-09-27 05:09:02 INFO  End_To_End_BDD_Framework:113 - ***-- close the browser ****-- 
+  2023-09-27 05:10:40 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:10:41 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:10:42 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:10:42 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:10:44 INFO  End_To_End_BDD_Framework:121 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 05:10:44 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu ****-- 
+  2023-09-27 05:10:46 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 05:10:49 INFO  End_To_End_BDD_Framework:140 - ***-- user can click on addnew button ****-- 
+  2023-09-27 05:10:51 INFO  End_To_End_BDD_Framework:146 - --****--- user can veiw customer page--****
+  2023-09-27 05:10:51 INFO  End_To_End_BDD_Framework:151 - ****---- genrate random String email ***----
+  2023-09-27 05:10:51 INFO  End_To_End_BDD_Framework:153 - ****---- insert email ***----
+  2023-09-27 05:10:54 INFO  End_To_End_BDD_Framework:156 - ****---- insert password ***----
+  2023-09-27 05:10:55 INFO  End_To_End_BDD_Framework:158 - ****---- insert firstname ***----
+  2023-09-27 05:10:58 INFO  End_To_End_BDD_Framework:161 - ****---- insert lastname ***----
+  2023-09-27 05:11:01 INFO  End_To_End_BDD_Framework:164 - ****---- insert male ***----
+  2023-09-27 05:11:01 INFO  End_To_End_BDD_Framework:166 - ****---- insert datebirth ***----
+  2023-09-27 05:11:09 INFO  End_To_End_BDD_Framework:113 - ***-- close the browser ****-- 
+  2023-09-27 05:12:02 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:12:02 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:12:03 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:12:03 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:12:05 INFO  End_To_End_BDD_Framework:121 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 05:12:05 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu ****-- 
+  2023-09-27 05:12:07 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 05:12:10 INFO  End_To_End_BDD_Framework:140 - ***-- user can click on addnew button ****-- 
+  2023-09-27 05:12:13 INFO  End_To_End_BDD_Framework:146 - --****--- user can veiw customer page--****
+  2023-09-27 05:12:13 INFO  End_To_End_BDD_Framework:151 - ****---- genrate random String email ***----
+  2023-09-27 05:12:13 INFO  End_To_End_BDD_Framework:153 - ****---- insert email ***----
+  2023-09-27 05:12:16 INFO  End_To_End_BDD_Framework:156 - ****---- insert password ***----
+  2023-09-27 05:12:16 INFO  End_To_End_BDD_Framework:158 - ****---- insert firstname ***----
+  2023-09-27 05:12:19 INFO  End_To_End_BDD_Framework:161 - ****---- insert lastname ***----
+  2023-09-27 05:12:22 INFO  End_To_End_BDD_Framework:164 - ****---- insert male ***----
+  2023-09-27 05:12:22 INFO  End_To_End_BDD_Framework:166 - ****---- insert datebirth ***----
+  2023-09-27 05:12:29 INFO  End_To_End_BDD_Framework:113 - ***-- close the browser ****-- 
+  2023-09-27 05:12:34 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:12:34 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:12:35 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:12:35 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:12:37 INFO  End_To_End_BDD_Framework:105 - ***-- user can click  logout button ****-- 
+  2023-09-27 05:12:43 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:12:43 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:12:44 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:12:44 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:12:45 INFO  End_To_End_BDD_Framework:105 - ***-- user can click  logout button ****-- 
+  2023-09-27 05:12:49 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:12:49 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:12:50 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:12:50 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:12:51 INFO  End_To_End_BDD_Framework:105 - ***-- user can click  logout button ****-- 
+  2023-09-27 05:24:16 INFO  End_To_End_BDD_Framework:60 - ******** Launcing Browser ********
+  2023-09-27 05:24:16 INFO  End_To_End_BDD_Framework:72 - ****-- open -** url
+  2023-09-27 05:24:17 INFO  End_To_End_BDD_Framework:79 - ***-- Poviding loging details****-- 
+  2023-09-27 05:24:17 INFO  End_To_End_BDD_Framework:86 - ***-- click login****-- 
+  2023-09-27 05:24:18 INFO  End_To_End_BDD_Framework:121 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 05:24:18 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu ****-- 
+  2023-09-27 05:24:21 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 05:24:23 INFO  End_To_End_BDD_Framework:140 - ***-- user can click on addnew button ****-- 
+  2023-09-27 05:24:26 INFO  End_To_End_BDD_Framework:146 - --****--- user can veiw customer page--****
+  2023-09-27 05:24:26 INFO  End_To_End_BDD_Framework:151 - ****---- genrate random String email ***----
+  2023-09-27 05:24:26 INFO  End_To_End_BDD_Framework:153 - ****---- insert email ***----
+  2023-09-27 05:24:29 INFO  End_To_End_BDD_Framework:156 - ****---- insert password ***----
+  2023-09-27 05:24:29 INFO  End_To_End_BDD_Framework:158 - ****---- insert firstname ***----
+  2023-09-27 05:24:32 INFO  End_To_End_BDD_Framework:161 - ****---- insert lastname ***----
+  2023-09-27 05:24:35 INFO  End_To_End_BDD_Framework:164 - ****---- insert male ***----
+  2023-09-27 05:24:35 INFO  End_To_End_BDD_Framework:166 - ****---- insert datebirth ***----
+  2023-09-27 05:24:43 INFO  End_To_End_BDD_Framework:113 - ***-- close the browser ****-- 
+  2023-09-27 08:34:03 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 08:34:03 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 08:34:04 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 08:34:04 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 08:34:05 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 08:34:05 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 08:34:08 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 08:34:10 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 08:34:13 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 08:34:13 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 08:34:13 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 08:34:16 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 08:34:16 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 08:34:19 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 08:34:22 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 08:34:22 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 08:34:30 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 08:34:37 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 08:34:37 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 08:34:38 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 08:34:38 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 08:34:39 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 08:34:39 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 08:34:42 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 08:34:48 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:04:39 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:04:39 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:04:40 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:04:40 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:04:41 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:04:41 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:04:44 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:04:46 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:04:49 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:04:49 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:04:49 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:04:52 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:04:52 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:04:55 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:04:58 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:04:58 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:05:06 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:05:11 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:05:11 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:05:12 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:05:13 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:05:14 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:05:14 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:05:17 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:05:23 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:05:28 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:05:28 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:05:29 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:05:29 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:05:30 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:05:30 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:05:32 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:07:04 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:07:04 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:07:05 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:07:05 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:07:07 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:07:07 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:07:09 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:07:13 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:07:15 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:07:15 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:07:15 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:07:18 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:07:18 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:07:22 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:07:25 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:07:25 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:07:32 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:07:34 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:07:34 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:07:35 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:07:35 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:07:37 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:07:37 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:07:39 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:07:47 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:07:47 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:07:48 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:07:49 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:07:51 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:07:51 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:07:53 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:10:11 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:10:11 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:10:12 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:10:12 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:10:14 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:10:14 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:10:16 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:10:19 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:10:22 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:10:22 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:10:22 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:10:25 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:10:25 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:10:28 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:10:31 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:10:31 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:10:39 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:10:41 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:10:41 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:10:42 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:10:42 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:10:44 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:10:44 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:10:46 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:10:54 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:10:54 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:10:55 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:10:55 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:10:57 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:10:57 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:10:59 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:11:55 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:11:55 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:11:56 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:11:56 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:11:59 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:11:59 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:12:01 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:12:04 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:12:07 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:12:07 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:12:07 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:12:10 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:12:10 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:12:13 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:12:17 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:12:17 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:12:24 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:12:27 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:12:27 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:12:28 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:12:29 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:12:31 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:12:31 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:12:33 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:19:15 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:19:15 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:19:16 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:19:16 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:19:18 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:19:18 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:19:20 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:19:23 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:19:26 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:19:26 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:19:26 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:19:29 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:19:29 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:19:32 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:19:35 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:19:36 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:19:45 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:19:48 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:19:48 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:19:49 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:19:49 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:19:51 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:19:51 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:19:53 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:30:57 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:30:57 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:30:58 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:30:58 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:31:00 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:31:00 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:31:03 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:31:05 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:31:08 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:31:08 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:31:08 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:31:11 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:31:11 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:31:14 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:31:17 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:31:17 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:31:24 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:31:27 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:31:27 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:31:28 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:31:28 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:31:30 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:31:30 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:31:32 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:31:39 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:31:40 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:31:40 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:31:41 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:31:41 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:31:43 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:31:43 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:31:45 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:39:06 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:39:06 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:39:12 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:39:13 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:39:15 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:39:15 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:39:17 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:39:19 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:39:22 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:39:22 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:39:22 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:39:25 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:39:26 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:39:29 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:39:32 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:39:32 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:39:39 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:39:42 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:39:42 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:39:43 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:39:43 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:39:45 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:39:45 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:39:47 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:39:54 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:39:55 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:39:55 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:39:56 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:39:56 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:39:58 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:39:59 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:40:01 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:43:41 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:43:41 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:43:42 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:43:42 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:43:44 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:43:44 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:43:46 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:43:49 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 09:43:52 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 09:43:52 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 09:43:52 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 09:43:55 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 09:43:55 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 09:43:58 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 09:44:02 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 09:44:02 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 09:44:09 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:44:11 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:44:11 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:44:12 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:44:12 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:44:14 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:44:14 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:44:17 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:44:23 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 09:44:25 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 09:44:25 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 09:44:25 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 09:44:26 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 09:44:27 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 09:44:27 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 09:44:30 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 09:44:36 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 10:17:08 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 10:17:08 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 10:17:10 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 10:17:10 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 10:17:14 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 10:17:14 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 10:17:16 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 10:17:20 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 10:17:23 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 10:17:23 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 10:17:23 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 10:17:27 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 10:17:27 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 10:17:30 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 10:17:33 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 10:17:33 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 10:17:42 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 10:21:32 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 10:21:32 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 10:21:35 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 10:21:35 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 10:21:50 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 10:21:50 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 10:21:53 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 10:21:56 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 10:22:00 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 10:22:00 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 10:22:00 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 10:22:04 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 10:22:04 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 10:22:07 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 10:22:10 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 10:22:10 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 10:22:25 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 10:22:28 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 10:22:28 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 10:22:32 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 10:22:32 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 10:22:43 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-09-27 10:22:49 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-09-27 10:22:51 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-09-27 10:22:51 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-09-27 10:22:53 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-09-27 10:22:53 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-09-27 10:22:57 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-09-27 10:22:57 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-09-27 10:22:59 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-09-27 10:23:03 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-09-27 10:23:07 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-09-27 10:23:07 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-09-27 10:23:07 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-09-27 10:23:10 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-09-27 10:23:10 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-09-27 10:23:13 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-09-27 10:23:16 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-09-27 10:23:16 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-09-27 10:23:26 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  
