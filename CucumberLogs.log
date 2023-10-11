@@ -422,4 +422,297 @@
   2023-09-27 10:23:16 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
   2023-09-27 10:23:16 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
   2023-09-27 10:23:26 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:51:02 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:51:02 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:51:03 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:51:04 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:51:07 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:51:07 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:51:09 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:51:12 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 20:51:14 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 20:51:14 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 20:51:14 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 20:51:18 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 20:51:18 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 20:51:21 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 20:51:24 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 20:53:05 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:53:05 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:53:06 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:53:07 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:53:09 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:53:09 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:53:11 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:53:15 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:53:15 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:53:18 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:53:18 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:53:26 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:53:26 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:53:27 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:53:27 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:53:27 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:53:52 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:53:52 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:53:54 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:53:54 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:53:56 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:53:56 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:53:59 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:54:02 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 20:54:05 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 20:54:05 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 20:54:05 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 20:54:08 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 20:54:08 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 20:54:11 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 20:54:14 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 20:54:14 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 20:54:22 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:54:25 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:54:25 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:54:26 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:54:26 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:54:28 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:54:32 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:54:36 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:54:36 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:54:37 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:54:37 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:54:39 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:54:42 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:54:44 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:54:44 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:54:45 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:54:45 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:54:46 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:54:50 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:54:50 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:54:52 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:54:52 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:54:55 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:54:55 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:54:57 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:55:00 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 20:55:03 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 20:55:03 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 20:55:03 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 20:55:07 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 20:55:07 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 20:55:10 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 20:55:13 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 20:55:13 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 20:55:20 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:55:23 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:55:23 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:55:24 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:55:24 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:55:26 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:55:26 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:55:28 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:55:31 INFO  End_To_End_BDD_Framework:183 - ***---- inserert email ********____
+  2023-10-10 20:55:31 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 20:55:35 INFO  End_To_End_BDD_Framework:197 - ***---- Verified propewrly by email  ********____
+  2023-10-10 20:55:35 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:55:37 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:55:37 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:55:37 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:55:38 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:55:40 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:55:40 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:55:42 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:55:45 INFO  End_To_End_BDD_Framework:205 - ***---- first name providing  ********____
+  2023-10-10 20:55:45 INFO  End_To_End_BDD_Framework:211 - ***---- provid lastname ********____
+  2023-10-10 20:55:45 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 20:55:48 INFO  End_To_End_BDD_Framework:218 - ***---- Verified propewrly by name ********____
+  2023-10-10 20:55:48 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:58:08 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:58:08 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:58:09 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:58:10 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:58:12 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:58:12 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:58:14 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:58:17 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 20:58:20 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 20:58:20 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 20:58:20 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 20:58:23 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 20:58:23 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 20:58:26 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 20:58:29 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 20:58:29 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 20:58:36 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:58:39 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:58:39 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:58:40 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:58:40 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:58:42 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:58:45 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:58:47 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:58:47 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:58:48 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:58:49 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:58:52 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:58:56 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:58:57 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:58:57 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:58:58 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:58:59 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:58:59 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 20:59:00 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:59:00 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:59:01 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:59:02 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:59:04 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:59:04 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:59:06 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:59:09 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 20:59:12 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 20:59:12 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 20:59:12 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 20:59:15 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 20:59:15 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 20:59:18 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 20:59:22 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 20:59:22 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 20:59:30 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:59:32 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:59:32 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:59:33 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:59:33 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:59:35 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:59:35 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:59:37 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:59:40 INFO  End_To_End_BDD_Framework:183 - ***---- inserert email ********____
+  2023-10-10 20:59:40 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 20:59:43 INFO  End_To_End_BDD_Framework:197 - ***---- Verified propewrly by email  ********____
+  2023-10-10 20:59:43 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 20:59:45 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 20:59:45 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 20:59:46 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 20:59:46 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 20:59:48 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 20:59:49 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 20:59:51 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 20:59:54 INFO  End_To_End_BDD_Framework:205 - ***---- first name providing  ********____
+  2023-10-10 20:59:54 INFO  End_To_End_BDD_Framework:211 - ***---- provid lastname ********____
+  2023-10-10 20:59:54 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 20:59:57 INFO  End_To_End_BDD_Framework:218 - ***---- Verified propewrly by name ********____
+  2023-10-10 20:59:57 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 21:02:44 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:02:44 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:02:45 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:02:46 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:02:48 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 21:02:48 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 21:02:50 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 21:02:53 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 21:02:56 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 21:02:56 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 21:02:56 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 21:02:59 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 21:02:59 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 21:03:03 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 21:03:06 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 21:03:06 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 21:03:13 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 21:03:15 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:03:15 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:03:16 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:03:17 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:03:19 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 21:03:23 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 21:03:24 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:03:24 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:03:25 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:03:26 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:03:28 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 21:03:31 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 21:03:33 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:03:34 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:03:35 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:03:35 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:03:36 INFO  End_To_End_BDD_Framework:99 - ***-- user can click  logout button ****-- 
+  2023-10-10 21:05:10 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:05:10 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:05:11 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:05:12 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:05:13 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 21:05:13 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 21:05:15 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 21:05:18 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 21:05:21 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 21:05:21 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 21:05:21 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 21:05:24 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 21:05:24 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 21:05:28 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 21:05:31 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 21:05:31 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 21:05:38 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 21:05:40 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:05:40 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:05:40 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:05:40 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:05:42 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 21:05:42 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 21:05:45 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 21:05:47 INFO  End_To_End_BDD_Framework:183 - ***---- inserert email ********____
+  2023-10-10 21:05:48 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 21:05:51 INFO  End_To_End_BDD_Framework:197 - ***---- Verified propewrly by email  ********____
+  2023-10-10 21:05:51 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 21:05:53 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 21:05:53 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 21:05:54 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 21:05:54 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 21:05:55 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 21:05:55 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 21:05:58 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 21:06:00 INFO  End_To_End_BDD_Framework:205 - ***---- first name providing  ********____
+  2023-10-10 21:06:01 INFO  End_To_End_BDD_Framework:211 - ***---- provid lastname ********____
+  2023-10-10 21:06:01 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 21:06:04 INFO  End_To_End_BDD_Framework:218 - ***---- Verified propewrly by name ********____
+  2023-10-10 21:06:04 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 23:03:45 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 23:03:45 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 23:03:46 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 23:03:46 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 23:03:48 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 23:03:48 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 23:03:50 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 23:03:53 INFO  End_To_End_BDD_Framework:134 - ***-- user can click on addnew button ****-- 
+  2023-10-10 23:03:56 INFO  End_To_End_BDD_Framework:140 - --****--- user can veiw customer page--****
+  2023-10-10 23:03:56 INFO  End_To_End_BDD_Framework:145 - ****---- genrate random String email ***----
+  2023-10-10 23:03:56 INFO  End_To_End_BDD_Framework:147 - ****---- insert email ***----
+  2023-10-10 23:03:59 INFO  End_To_End_BDD_Framework:150 - ****---- insert password ***----
+  2023-10-10 23:03:59 INFO  End_To_End_BDD_Framework:152 - ****---- insert firstname ***----
+  2023-10-10 23:04:02 INFO  End_To_End_BDD_Framework:155 - ****---- insert lastname ***----
+  2023-10-10 23:04:05 INFO  End_To_End_BDD_Framework:158 - ****---- insert male ***----
+  2023-10-10 23:04:06 INFO  End_To_End_BDD_Framework:160 - ****---- insert datebirth ***----
+  2023-10-10 23:04:14 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 23:04:16 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 23:04:16 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 23:04:16 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 23:04:17 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 23:04:19 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 23:04:19 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 23:04:21 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 23:04:24 INFO  End_To_End_BDD_Framework:183 - ***---- inserert email ********____
+  2023-10-10 23:04:24 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 23:04:27 INFO  End_To_End_BDD_Framework:197 - ***---- Verified propewrly by email  ********____
+  2023-10-10 23:04:27 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
+  2023-10-10 23:04:29 INFO  End_To_End_BDD_Framework:54 - ******** Launcing Browser ********
+  2023-10-10 23:04:29 INFO  End_To_End_BDD_Framework:66 - ****-- open -** url
+  2023-10-10 23:04:30 INFO  End_To_End_BDD_Framework:73 - ***-- Poviding loging details****-- 
+  2023-10-10 23:04:30 INFO  End_To_End_BDD_Framework:80 - ***-- click login****-- 
+  2023-10-10 23:04:32 INFO  End_To_End_BDD_Framework:115 - ***-- user can veiw the dashboad ***-- 
+  2023-10-10 23:04:32 INFO  End_To_End_BDD_Framework:122 - ***-- user can click on customermenu ****-- 
+  2023-10-10 23:04:34 INFO  End_To_End_BDD_Framework:128 - ***-- user can click on customermenu item ****-- 
+  2023-10-10 23:04:37 INFO  End_To_End_BDD_Framework:205 - ***---- first name providing  ********____
+  2023-10-10 23:04:37 INFO  End_To_End_BDD_Framework:211 - ***---- provid lastname ********____
+  2023-10-10 23:04:37 INFO  End_To_End_BDD_Framework:191 - ***----serch customer ********____
+  2023-10-10 23:04:40 INFO  End_To_End_BDD_Framework:218 - ***---- Verified propewrly by name ********____
+  2023-10-10 23:04:40 INFO  End_To_End_BDD_Framework:107 - ***-- close the browser ****-- 
   

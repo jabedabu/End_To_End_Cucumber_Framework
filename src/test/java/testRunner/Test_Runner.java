@@ -9,16 +9,16 @@ import org.junit.runner.RunWith;
 @CucumberOptions
         (
 
-                features = ".\\Features\\",
-                // features = ".\\Features\\NewCustomer_SerachByEmail.feature",
-                //  features = ".\\Features\\Add_New_Customers.feature",
-            // features = {".\\Features\\Login.feature",".\\Features\\Add_New_Customers.feature"},
+               // features = ".\\Features\\",
+                 features = ".\\Features\\NewCustomer_SerachByEmail.feature",
+                // features = ".\\Features\\Add_New_Customers.feature",
+           // features = {".\\Features\\Login.feature",".\\Features\\Add_New_Customers.feature"},
 
                 glue = "stepDefinitions",
                 dryRun =false,
                 monochrome = true,
-                plugin = {"pretty", "html:test-output"},
-                tags= "@sanity,@regression"
+                plugin = {"pretty", "html:test-output"}
+              // tags= "@sanity,@regression"
         )
 
 public class Test_Runner {
